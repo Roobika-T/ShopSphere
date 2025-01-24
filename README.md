@@ -1,0 +1,2 @@
+# ShopSphere
+Shopping application
